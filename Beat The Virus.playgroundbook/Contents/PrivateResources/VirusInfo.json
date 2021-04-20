@@ -1,0 +1,129 @@
+{
+    "virus1": {
+        "size": {
+            "width": 60,
+            "hight": 60
+        },
+        "frameNum": 7,
+        "duration": 1,
+        "lenth": 1,
+        "isEasy": 1,
+        "radius": 25,
+        "animated": 1,
+        "moveSpeed": 20,
+        "symbols": "H"
+    },
+    "virus2": {
+        "size": {
+            "width": 110,
+            "hight": 120
+        },
+        "frameNum": 20,
+        "duration": 4,
+        "lenth": 4,
+        "isEasy": 0,
+        "radius": 55,
+        "animated": 1,
+        "moveSpeed": 6,
+        "symbols": "EHEH"
+    },
+    "virus3": {
+        "size": {
+            "width": 90,
+            "hight": 95
+        },
+        "frameNum": 83,
+        "duration": 2.5,
+        "lenth": 2,
+        "isEasy": 1,
+        "radius": 43,
+        "animated": 1,
+        "moveSpeed": 7,
+        "symbols": "EH"
+    },
+    "virus4": {
+        "size": {
+            "width": 140,
+            "hight": 140
+        },
+        "frameNum": 2,
+        "duration": 0.5,
+        "lenth": 5,
+        "isEasy": 0,
+        "radius": 68,
+        "animated": 1,
+        "moveSpeed": 5,
+        "symbols": "E.??E"
+    },
+    "virus5": {
+        "size": {
+            "width": 105,
+            "hight": 105
+        },
+        "frameNum": 14,
+        "duration": 1.2,
+        "lenth": 10,
+        "isEasy": 0,
+        "radius": 52,
+        "animated": 1,
+        "moveSpeed": 6,
+        "symbols": "E........."
+    },
+    "virus6": {
+        "size": {
+            "width": 90,
+            "hight": 90
+        },
+        "frameNum": 83,
+        "duration": 2.5,
+        "lenth": 3,
+        "isEasy": 0,
+        "radius": 45,
+        "animated": 1,
+        "moveSpeed": 8,
+        "symbols": "E.H"
+    },
+    "virus7": {
+        "size": {
+            "width": 135,
+            "hight": 145
+        },
+        "frameNum": 28,
+        "duration": 2,
+        "lenth": 6,
+        "isEasy": 0,
+        "radius": 48,
+        "animated": 1,
+        "moveSpeed": 8,
+        "symbols": "HH??E."
+    },
+    "virus8": {
+        "size": {
+            "width": 160,
+            "hight": 160
+        },
+        "frameNum": 129,
+        "duration": 3,
+        "lenth": 8,
+        "isEasy": 0,
+        "radius": 55,
+        "animated": 1,
+        "moveSpeed": 8,
+        "symbols": "E.H???E."
+    },
+    "virus9": {
+        "size": {
+            "width": 50,
+            "hight": 50
+        },
+        "frameNum": 1,
+        "duration": 1,
+        "lenth": 1,
+        "isEasy": 1,
+        "radius": 20,
+        "animated": 0,
+        "moveSpeed": 9,
+        "symbols": "?"
+    }
+}
+
